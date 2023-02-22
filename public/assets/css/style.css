@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+.titlePrimary {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    color: deepskyblue;
+}
+
+#content {
+    display: flex;
+    justify-content: left;
+}
+
+.titles {
+    margin-top: 10rem;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+
+}
+
+.titleCat1, .titleCat2, .titleCat3, .titleCat4 {
+    color: crimson;
+    text-decoration: underline;
+
+}
+
+.subCategory {
+    text-decoration: underline;
+    font-size: 1.7rem;
+    color: orangered;
+
+}
+
+input {
+    float: right;
+    margin-right: 25rem;
+    width: 20%;
+}
+
+.result {
+
+}
+
+.reset {
+
+}
